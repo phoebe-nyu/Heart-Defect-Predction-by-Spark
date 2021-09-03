@@ -15,4 +15,5 @@ Dataset Schema:
 * Thal: 3=normal;6=fixed defect; 7=reversable defect 
 
 Methods. 
+
 Build a predictive binary logsitic regression model using SparkML to predict whether someone has a heart defect 
