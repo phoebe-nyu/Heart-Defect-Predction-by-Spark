@@ -14,6 +14,6 @@ Dataset Schema:
 * Number of major vessels(0-3)colored by fluoroscopy
 * Thal: 3=normal;6=fixed defect; 7=reversable defect 
 
-Methods. 
+Methods
 
-Build a predictive binary logsitic regression model using SparkML to predict whether someone has a heart defect 
+* Build a predictive binary logsitic regression model using SparkML to predict whether someone has a heart defect 
